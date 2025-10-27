@@ -1,1 +1,3 @@
 # Task-4-SQL-for-Data-Analysis
+
+This repository serves as a practical showcase of key SQL skills, covering a wide range of database operations from data retrieval to performance optimization. The included scripts demonstrate core data manipulation and filtering using SELECT, WHERE, ORDER BY, and GROUP BY. More complex data relationships are handled through INNER, LEFT, and RIGHT JOINs, while subqueries and aggregate functions like SUM and AVG are used for advanced calculations and analysis. Finally, the project demonstrates the creation of VIEWs to simplify complex analytical perspectives and the implementation of INDEXes to improve query performance.
